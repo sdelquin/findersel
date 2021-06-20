@@ -12,7 +12,7 @@ $ pip install findersel
 
 Select some files on Finder:
 
-![Finder screenshot](finder-screenshot.png)
+![Finder screenshot](https://github.com/sdelquin/findersel/raw/main/finder-screenshot.png)
 
 And get the selected files:
 
@@ -32,10 +32,11 @@ And get the selected files:
 
 ## Changelog
 
-| 1.0.1 | 20/06/2021 |
+| 0.1.1 | 20/06/2021 |
 | ----- | ---------- |
 
 - Add documentation.
+- Fix bug when no files are selected.
 
 | 0.1.0 | 20/06/2021 |
 | ----- | ---------- |

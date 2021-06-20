@@ -32,6 +32,11 @@ And get the selected files:
 
 ## Changelog
 
+| 0.1.2 | 20/06/2021 |
+| ----- | ---------- |
+
+- Get rid of prettyconf external dependency.
+
 | 0.1.1 | 20/06/2021 |
 | ----- | ---------- |
 

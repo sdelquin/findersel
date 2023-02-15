@@ -30,7 +30,26 @@ And get the selected files:
 
 > Note than the function returns a **generator**.
 
+You can get the selected files _ordered by name_ with:
+
+```python
+>>> import findersel
+
+>>> list(findersel.get_selected_files(sort=True))
+['/Users/sdelquin/findersel/Makefile',
+ '/Users/sdelquin/findersel/README.md',
+ '/Users/sdelquin/findersel/requirements.txt',
+ '/Users/sdelquin/findersel/setup.cfg',
+ '/Users/sdelquin/findersel/setup.py',
+ '/Users/sdelquin/findersel/LICENSE']
+```
+
 ## Changelog
+
+| 0.1.3 | 15/02/2023 |
+| ----- | ---------- |
+
+- Add parameter to sort files.
 
 | 0.1.2 | 20/06/2021 |
 | ----- | ---------- |

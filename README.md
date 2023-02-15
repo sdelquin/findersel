@@ -46,6 +46,11 @@ You can get the selected files _ordered by name_ with:
 
 ## Changelog
 
+| 0.1.4 | 15/02/2023 |
+| ----- | ---------- |
+
+- Fix documentation.
+
 | 0.1.3 | 15/02/2023 |
 | ----- | ---------- |
 
